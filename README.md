@@ -27,7 +27,8 @@ var linkText = "ENTER LINK TEXT CODE HERE"
 var linkHref = "ENTER LINK HREF CODE HERE"
 
 
-// NO NEED TO MODIFY BELOW HERE
+// NO NEED TO MODIFY BELOW HEREHello how're you, I'm Solomon pleasure to meet you? I was wondering if we could get to know each other as friends? I'm 23 turn 24 on July 4th. Originally from California moved to Louisiana in 2008. I'm in the process of going back to school for Criminal Justice. I love playing video games, listening to music, and hanging out with friends and family. Favorite color is Matte Black, favorite fruit's are grapes and oranges. God-Fearing
+music
 console.log(`The header is: ${header}`)
 console.log(`The first link text is: ${linkText}`)
 console.log(`The first link href is: ${linkHref}`)
